@@ -1,0 +1,9 @@
+python 
+
+Libraries needed
+pandas 
+numpy
+matplotlib
+seaborn
+sklearn
+prettytable
